@@ -1,2 +1,2 @@
 # practice
-Store stuff the group is working on
+We can use this repo to store small things we are working on to practice.
